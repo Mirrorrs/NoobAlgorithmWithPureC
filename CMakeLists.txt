@@ -1,0 +1,1 @@
+add_executable(main main.c sqList.h greatMultiple.h greatMinus.h util.h greatDivide.h)
