@@ -59,7 +59,6 @@ char* readFromFile(char* filename){
         line[len++] = c;
         line[len] = '\0';
     }
-    //cout<<line<<endl;
     fclose(fp);//关闭文件
     return line;
 }

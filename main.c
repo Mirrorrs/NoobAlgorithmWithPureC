@@ -29,7 +29,6 @@ sqList greaterGCD(sqList m, sqList n){
 }
 
 
-
 int main(){
     // 声明变量以及初始化
     char* s1; char* s2;

@@ -32,7 +32,6 @@ Status initList(sqList *L);
 // 时间复杂度为O(1)
 void appendList(sqList *L, int e);
 
-
 // 插入元素, 在位置i之前.
 // 位置为下标+1
 // 时间复杂度为O(n)
